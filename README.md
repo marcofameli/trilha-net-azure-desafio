@@ -12,7 +12,8 @@ Essa cadastro precisa precisa ter um CRUD, ou seja, deverá permitir obter os re
 ## Premissas
 A sua aplicação deverá ser do tipo Web API, Azure Functions ou MVC, fique a vontade para implementar a solução que achar mais adequado.
 
-A sua aplicação deverá ser implantada no Microsoft Azure, utilizando o App Service para a API, SQL Database para o banco relacional e Azure Table para armazenar os logs.
+A sua aplicação deverá ser implantada no Microsoft Azure, utilizando o App Service para a API, SQL Database para
+ o banco relacional e Azure Table para armazenar os logs.
 
 A sua aplicação deverá armazenar os logs de todas as alterações que venha a acontecer com o funcionário. Os logs deverão serem armazenados em uma Azure Table.
 
